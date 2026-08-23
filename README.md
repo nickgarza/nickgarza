@@ -2,7 +2,7 @@ Welcome to my Github!
 - I'm currently a software engineer on the GPU Driver Infrastructure Team at Xbox/Microsoft
 - I'm a graduate of Johns Hopkins University where I studied Computer Science and Biomedical Engineering
 - In the past I've worked on GPU drivers, machine learning applications for genomics, and software for healthcare devices
-- I love discussing gaming technology, hardware optimization, and great user design and experiences
+- I love discussing gaming technology, hardware optimization, and great user experiences
 
 <!--
 **nickgarza/nickgarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
